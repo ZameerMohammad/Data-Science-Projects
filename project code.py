@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 10 14:34:28 2024
-
-@author: zameer
-"""
 
 #---------------------------------------Different types of EDA's-----------------------------------------------------------------
 import pandas as pd
